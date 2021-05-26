@@ -20,5 +20,5 @@
   </ul>
 </ol>
     
-<p><b>Output:</b> A file that consists of N random characters between the A-Z, spaces, and new lines, where N is a user-defined number</p>
+<p><b>Output:</b> A file called <i>output.txt</i> that consists of N random characters between the A-Z, spaces, and new lines, where N is a user-defined number</p>
   
