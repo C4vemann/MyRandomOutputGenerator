@@ -8,6 +8,7 @@
 
 <p>To <b>compile</b> this program:</p>
 <ol>
+  <li>Download the file: <i>MyRandom.java</i></li>
   <li>Open in a CLI (command line interface) and move to the location of where the file is stored.</li>
   <li>Type into the CLI: <i>javac MyRandom.java</i></li>
 </ol>
